@@ -14,7 +14,7 @@ Reach me at: erickluan12x@gmail.com
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erickluann12x&theme=tokyonight)
 
 ### Linkedin
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/erickkluann)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/erick-luann)
 
 ### Languages
 ```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Basic```
